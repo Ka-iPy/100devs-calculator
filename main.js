@@ -1,4 +1,4 @@
-const screenEl = document.querySelector('span');         // or better: document.getElementById('screen')
+const screenEl = document.querySelector('span');       // or better: document.getElementById('screen')
 const equalsBtn = document.getElementById('equals');     // <button id="equals">=</button>
 const btns = document.getElementsByClassName('btn');              // <button id="btn">1</button>
 let result = false
